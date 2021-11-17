@@ -1,4 +1,4 @@
-# generator-basic-html [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-just-html [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Create a basic HTML page with js and css directories
 
 ## Installation
@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-basic-html using [npm](h
 
 ```bash
 npm install -g yo
-npm install -g @rishjain9191/generator-basic-html
+npm install -g generator-just-html
 ```
 
 Then generate your new project:
 
 ```bash
-yo basic-html
+yo just-html
 ```
 
 ## Getting To Know Yeoman
