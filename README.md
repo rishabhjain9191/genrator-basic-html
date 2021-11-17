@@ -7,7 +7,7 @@ First, install [Yeoman](http://yeoman.io) and generator-basic-html using [npm](h
 
 ```bash
 npm install -g yo
-npm install -g generator-basic-html
+npm install -g @rishjain9191/generator-basic-html
 ```
 
 Then generate your new project:
